@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+unstructured
+pdfminer.six
+python-docx
+docx2txt
+huggingface_hub
